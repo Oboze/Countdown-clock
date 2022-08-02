@@ -1,0 +1,10 @@
+#count-down-clock{
+    display:flex;
+    justify-content: center;
+    font-size: 2rem;
+   
+}
+
+h1{
+    text-align: center;
+}
